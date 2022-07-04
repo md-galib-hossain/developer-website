@@ -28,7 +28,6 @@ section{
     padding: 10px 40px;
     border-radius: 4px;
 }
-.top-banner{
-    background-image: url(/images/top-banner.png);
+.top-banner img{
     background-repeat: no-repeat;
 }
